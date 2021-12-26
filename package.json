@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Travis2445/team-profile-generator#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "jest": "^27.4.5"
   }
 }
